@@ -9,7 +9,7 @@ Comparing different renderers and the resulting images
 - [LuxCoreRender][luxcorerender]
 - [Maxwell][maxwell]
 - [OctaneRender][octane-render]
-= [Redshift][redshift3d]
+- [Redshift][redshift3d]
 - [RenderMan][renderman]
 
 [appleseed]:      https://appleseedhq.net
