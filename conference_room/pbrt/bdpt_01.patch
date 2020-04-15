@@ -1,0 +1,10 @@
+40c40,41
+< Sampler "lowdiscrepancy" "integer pixelsamples" [8]
+---
+> Sampler "02sequence"
+>   "integer pixelsamples" [ 512 ]
+42c43,44
+< Integrator "path"
+---
+> Integrator "bdpt"
+>   "integer maxdepth" [ 4 ]
